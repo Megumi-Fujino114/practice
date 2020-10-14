@@ -1,0 +1,24 @@
+.header{
+	background-color: pink;
+	width: 100%;
+	height: 80px;
+}
+.top{
+	color: red;
+	margin-left:20%;
+	margin-top:100px;
+}
+.volleyball{
+	width: 150px;
+	height: 150px;
+	border-radius:50%;
+	margin-left: 200px;
+	margin-top: 200px;
+}
+
+.front{
+	width: 200px;
+	height: 100px;
+	margin-left: 40%;
+	font-family: cursive;
+}
